@@ -1,0 +1,29 @@
+body{
+  background-color: #e1d3e5;
+  text-align: center;
+  font-family: 'ABeeZee', sans-serif;
+}
+.img-circle {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    border: solid;
+    border-width: 10px;
+    border-color: #398b97;
+    margin-top: 30px;
+}
+.btn {
+	border-radius: 5px;
+	background-color: #f6bb53;
+	border: none;
+	color: white;
+}
+#purple{
+	background-color: #e1d3e5;
+	height: 400px;
+}
+#green{
+	background-color: #c6d5c6;
+	height: 200px;
+	padding-top: 30px;
+}
